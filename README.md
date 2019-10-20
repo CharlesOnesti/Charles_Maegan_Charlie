@@ -12,4 +12,4 @@ linked here: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 This project was interesting because it can be used to combat fraud.
 We had fun putting the program together.
 
-Charles, Maegen, and Charlie
+Charles, Maegan, and Charlie
